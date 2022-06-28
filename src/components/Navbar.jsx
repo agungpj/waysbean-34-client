@@ -108,7 +108,7 @@ function Navbar() {
                       </Menu.Item>
                       <Menu.Item>
                         <Link
-                          to="/add-topping"
+                          to="#"
                           className="p-4 flex items-center hover:bg-gray-100"
                         >
                           <img
